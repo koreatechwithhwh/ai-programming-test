@@ -1,1 +1,4 @@
-# ai-programming-test
+하이
+안녕
+아무거나
+진짜 아무거나
